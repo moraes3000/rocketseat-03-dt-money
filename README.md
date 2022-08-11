@@ -20,6 +20,8 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 - [Styled Components](https://github.com/styled-components.com/)
 - [Radix UI](https://www.radix-ui.com/)
 - [Json Server](https://github.com/typicode/json-server)
+- [React Hook Form](https://react-hook-form.com/)
+- [Zod](https://github.com/colinhacks/zod)
 
 
 ---
